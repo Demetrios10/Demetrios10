@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Demétrios
 
-<!--
-**Demetrios10/Demetrios10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Testes de Software Pleno
+💻 Focado em Testes Funcionais  
+📍 Brasil  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou evoluindo
+- Python (em aprendizado)
+- Selenium (em aprendizado)
+- Pytest (em aprendizado)
+- Playwright (em aprendizado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+🔹 Automação de testes web (em aprendizado) 
+🔹 Scripts Python  (em aprendizado)
+🔹 Estudos de QA  
+
+## 📈 Em evolução
+Atualmente estudando automação de testes e boas práticas (CI/CD)
+
+## 📫 Contato
+- LinkedIn: (https://www.linkedin.com/feed/)
