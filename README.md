@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Demétrios Alves Da Silva
 
-🎯 Analista de Testes de Software Pleno
+🎯 Analista de Testes Software Pleno
 📍 Brasil  
 
 ## 🚀 Tecnologias que estou evoluindo
