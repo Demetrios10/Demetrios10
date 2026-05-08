@@ -5,6 +5,7 @@
 
 ## 🚀 Tecnologias que estou evoluindo
 - Python (em aprendizado)
+- Java (em aprendizado)
 - Selenium (em aprendizado)
 - Cypress (em aprendizado)
 - Playwright (em aprendizado)
