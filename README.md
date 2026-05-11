@@ -8,11 +8,10 @@
 - Java (em aprendizado)
 - Selenium (em aprendizado)
 - Cypress (em aprendizado)
-- Playwright (em aprendizado)
 
 ## 📂 Projetos
 🔹 Automação de testes web com selenium webdriver (em aprendizado) 
-🔹 Scripts Python  (em aprendizado)
+🔹 Scripts Python , Java (em aprendizado)
 🔹 Estudos de QA  
 
 ## 📈 Em evolução
