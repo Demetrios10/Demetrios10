@@ -1,10 +1,3 @@
-
-Aqui está um README profissional, moderno e bem estruturado, totalmente baseado no conteúdo do seu currículo (com trechos citados conforme solicitado). Ele foi pensado para o GitHub, transmitindo credibilidade, clareza e foco em QA.
-
-Se quiser, posso adaptar para inglês, deixar mais técnico ou mais descontraído.
-
----
-
 👋 Olá! Eu sou o Demetrios Alves
 
 Sou QA Analyst / Analista de Testes Pleno, com experiência sólida em testes funcionais, regressivos, exploratórios e E2E, além de validação de APIs, escrita de cenários em BDD e atuação em sistemas críticos de meios de pagamento.
