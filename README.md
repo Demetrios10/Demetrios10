@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Demetrios Alves
+👋 Olá! Eu sou o Demetrios Alves Da Silva
 
 Sou QA Analyst / Analista de Testes Pleno, com experiência sólida em testes funcionais, regressivos, exploratórios e E2E, além de validação de APIs, escrita de cenários em BDD e atuação em sistemas críticos de meios de pagamento.
 
