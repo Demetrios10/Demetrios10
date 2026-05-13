@@ -1,97 +1,41 @@
-👋 OLÁ! EU SOU O DEMETRIOS ALVES DA SILVA
+Olá, eu sou Demétrios Alves Da Silva
+QA Analyst / Analista de Testes Pleno, com experiência em testes funcionais, regressivos, exploratórios e E2E, validação de APIs, escrita de cenários em BDD e atuação em sistemas críticos de meios de pagamento.
 
-Sou QA Analyst / Analista de Testes Pleno, com experiência sólida em testes funcionais, 
-regressivos, exploratórios e E2E, além de validação de APIs, 
-escrita de cenários em BDD e atuação em sistemas críticos de meios de pagamento.
+Atuo com foco em qualidade ponta a ponta, análise de riscos, rastreabilidade e melhoria contínua ao longo do SDLC, desde o entendimento dos requisitos até a validação em produção.
 
-No meu currículo, descrevo que atuo “em todo o ciclo de desenvolvimento (SDLC), 
-desde o levantamento de requisitos até a validação em produção”, 
-garantindo qualidade ponta a ponta e contribuindo para redução de falhas e retrabalho. 
+Foco profissional
+Testes funcionais, regressivos, exploratórios e E2E
+Validação de APIs e transações financeiras
+Escrita e manutenção de cenários em BDD
+Gestão de massa de teste e evidências
+Análise de requisitos, riscos e impactos
+Documentação, rastreabilidade e suporte a squads ágeis
+Experiência em negócios financeiros
+Tenho experiência validando soluções em meios de pagamento e produtos financeiros, incluindo:
 
----
+Pix
+Split de pagamentos
+Antecipação de recebíveis
+MFA
+Chargeback
+Clover Capital
+Hierarquia de clientes
+Recebimentos futuros
+Arquivos financeiros e conciliação de dados
+Ferramentas e tecnologias
+Qualidade	Automação e APIs	Gestão e Dados
+Testes funcionais	Postman	Jira
+Testes regressivos	Selenium	Confluence
+Testes E2E	Cypress	Zephyr
+BDD	Python	QTest
+Análise de logs	Java	Oracle
+Repositórios em destaque
+Automacao-Selenium-Python: estudos e estrutura inicial para automação web com Selenium e Python.
+Meu-Projeto: exercícios e fundamentos de Python, lógica de programação e prática contínua.
+Fundamentos-Java: base de estudos em Java, lógica e programação orientada a objetos.
+Em evolução
+No momento, sigo aprofundando minha prática em automação de testes, com foco em Python, Selenium, Cypress, Java, APIs, boas práticas de QA e integração com fluxos de CI/CD.
 
-🚀 Sobre mim
-
-Atuo em ambientes ágeis, com forte foco em qualidade, análise de riscos e melhoria contínua. Tenho experiência validando soluções financeiras como:
-
-- Pix
-- Split de Pagamentos
-- Antecipação de Recebíveis
-- MFA
-- Chargeback
-- Clover Capital
-- Hierarquia de Clientes
-- Recebimentos Futuros
-
-Segundo meu currículo, participei de projetos estratégicos que resultaram em “redução de aproximadamente 25% de falhas em produção” e “redução de 20% de retrabalho em homologações”. 
-
----
-
-🧪 O que eu faço
-
-- Testes Funcionais, Regressivos e E2E
-- Validação de APIs (Postman)
-- Escrita de cenários em BDD
-- Gestão de massas de teste
-- Análise de requisitos e identificação de riscos
-- Documentação e rastreabilidade (Jira, Confluence, Zephyr, QTest)
-- Análise de logs e validação de transações financeiras
-
----
-
-🛠️ Tecnologias & Ferramentas
-
-- QA | Testes Funcionais | Testes Regressivos | Testes E2E
-- BDD | APIs | Postman
-- Jira | Confluence | Zephyr | QTest
-- Oracle | Git
-- Agile | Scrum
-- Automação de Testes (em evolução)
-
----
-
-💼 Experiência
-
-Fiserv — Analista de Certificação Jr. / Analista de Teste Pleno (2024–2026)
-Atuação como ponto focal de QA, validação de soluções financeiras críticas, definição de cenários, mitigação de riscos e suporte à tomada de decisão.  
-Trecho do currículo: “Atuação em squads ágeis, acompanhando todo o ciclo de desenvolvimento (SDLC)... garantindo qualidade de ponta a ponta.” 
-
----
-
-Inmetrics — Analista de Engenharia de Automação de Qualidade Jr. (2021–2023)
-Testes funcionais e regressivos, validação de APIs, análise de logs e documentação técnica.  
-Trecho do currículo: “Validação de APIs, transações financeiras e arquivos (CNAB e PTLF), incluindo análise de logs... garantindo integridade dos dados.” 
-
----
-
-🎓 Formação
-
-Tecnólogo em Banco de Dados — Uninove (2022)
-
----
-
-📚 Cursos
-
-- Postman (Udemy)
-- Python do Zero ao Avançado (Udemy)
-- DevOps para Qualidade (Udemy)
-- Inteligência Artificial (Udemy)
-- Ecossistema de Fintechs e Pagamentos Digitais (FGV)
-- Teste de Usabilidade (Alura)
-
----
-
-📫 Como me encontrar
-
-- E-mail: demetrios1045@gmail.com  
-- LinkedIn: linkedin.com/in/demetriosalvess
-
----
-
-🧩 O que você vai encontrar nos meus repositórios
-
-- Projetos de testes manuais e E2E
-- Coleções Postman para APIs
-- Estudos e práticas com Python
-- Estruturas de BDD
-- Evolução em automação de testes
+Contato
+E-mail: demetrios1045@gmail.com
+LinkedIn: linkedin.com/in/demetriosalvess
