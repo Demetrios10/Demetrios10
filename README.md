@@ -35,7 +35,7 @@ Experiência em soluções de meios de pagamento e produtos financeiros:
 | Qualidade | Automação e APIs | Gestão e dados |
 | --- | --- | --- |
 | Testes funcionais | Postman | Jira |
-| Testes regressivos | Selenium | Confluence |
+| Testes regressivos | Selenium | Confluence | playwright
 | Testes E2E | Zephyr |
 | BDD | Python | QTest |
 | Análise de logs | Java | Oracle |
@@ -54,6 +54,7 @@ No momento, sigo aprofundando minha prática em automação de testes, com foco 
 
 - Python aplicado a QA
 - Selenium WebDriver
+- playwright com Python
 - Java para fundamentos de automação
 - APIs e Postman
 - Boas práticas de testes E2E
