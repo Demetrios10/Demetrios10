@@ -36,7 +36,7 @@ Experiência em soluções de meios de pagamento e produtos financeiros:
 | --- | --- | --- |
 | Testes funcionais | Postman | Jira |
 | Testes regressivos | Selenium | Confluence |
-| Testes E2E | Cypress | Zephyr |
+| Testes E2E | Zephyr |
 | BDD | Python | QTest |
 | Análise de logs | Java | Oracle |
 
@@ -54,7 +54,6 @@ No momento, sigo aprofundando minha prática em automação de testes, com foco 
 
 - Python aplicado a QA
 - Selenium WebDriver
-- Cypress
 - Java para fundamentos de automação
 - APIs e Postman
 - Boas práticas de testes E2E
