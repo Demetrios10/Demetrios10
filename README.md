@@ -55,7 +55,6 @@ No momento, sigo aprofundando minha prática em automação de testes, com foco 
 - Python aplicado a QA
 - Selenium WebDriver
 - playwright com Python
-- Java para fundamentos de automação
 - APIs e Postman
 - Boas práticas de testes E2E
 - Integração futura com CI/CD
