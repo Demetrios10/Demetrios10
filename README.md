@@ -2,11 +2,13 @@
 
 # Demétrios Alves da Silva
 
-**QA Analyst · Analista de Testes Pleno**
+**QA Analyst | AI Applied to Software Testing**
 
-Qualidade de software com foco em APIs, integrações e meios de pagamento.
+Meios de Pagamento · Adquirência · Serviços Financeiros · Seguros
 
-[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [E-mail](mailto:demetrios1045@gmail.com) · [Projetos](#projetos)
+São Paulo, Brasil
+
+[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [E-mail](mailto:demetrios.10@hotmail.com) · [Portfólio](#projetos-de-estudo)
 
 </div>
 
@@ -14,50 +16,72 @@ Qualidade de software com foco em APIs, integrações e meios de pagamento.
 
 ## Sobre mim
 
-Atuo com testes funcionais, regressivos, exploratórios e E2E em sistemas de meios de pagamento. Acompanho o ciclo de desenvolvimento desde a análise de requisitos até a validação em produção, com atenção a riscos, rastreabilidade e evidências.
+Sou Analista de Testes (QA), com experiência em times ágeis e participação em todas as etapas do ciclo de desenvolvimento de software (SDLC), da análise de requisitos à homologação e validação em produção.
 
-Minha experiência inclui validação de APIs, cenários em BDD, análise de logs e conferência de dados financeiros. Atualmente, aprofundo meus estudos em automação web com Python, Selenium e Playwright.
+Atualmente, atuo na **NTT DATA**, alocado no cliente **MAPFRE**, na Squad de Sinistro de um projeto de abrangência LATAM. Meu foco é qualidade, confiabilidade e mitigação de riscos, com entregas alinhadas às necessidades do negócio.
 
-## Como contribuo para a qualidade
+Minha trajetória reúne testes manuais, funcionais, exploratórios, regressivos e ponta a ponta (E2E), validação de APIs e integrações, cenários em BDD e análise de dados financeiros. Neste GitHub, compartilho meus estudos em Python e automação web.
 
-| Área | Atuação |
-| --- | --- |
-| Planejamento de testes | Análise de requisitos, riscos, cenários e massa de dados |
-| Validação funcional | Testes exploratórios, regressivos e de ponta a ponta |
-| APIs e integrações | Conferência de contratos, payloads e regras de negócio |
-| Evidências e rastreabilidade | Documentação de resultados e apoio à tomada de decisão |
-| Dados financeiros | Validação de transações, arquivos e conciliação de dados |
+## Experiência profissional
 
-## Experiência de negócio
-
-**Pagamentos:** Pix, split de pagamentos, chargeback e hierarquia de clientes.  
-**Produtos financeiros:** antecipação de recebíveis, recebimentos futuros e Clover Capital.  
-**Segurança e dados:** MFA, arquivos financeiros e conciliação.
-
-## Ferramentas e estudos
-
-- **Testes e APIs:** Postman, BDD, testes funcionais, regressivos e E2E.
-- **Gestão e documentação:** Jira, Confluence, Zephyr e QTest.
-- **Linguagens e dados:** Python, Java, Oracle e análise de logs.
-- **Aprofundamento atual:** Selenium WebDriver e Playwright com Python.
-
-## Projetos
-
-Projetos de estudo que registram minha evolução em programação e automação de testes.
-
-| Projeto | O que você encontra | Tecnologias |
+| Empresa | Cargo | Período |
 | --- | --- | --- |
-| [Automação web com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Script demonstrativo de pesquisa no YouTube, com guia de instalação e execução | Python · Selenium · Chrome |
-| [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | 33 aulas organizadas em seis temas, com índice e exemplos independentes | Python 3 · Lógica de programação |
+| NTT DATA Europe & Latam | QA Analyst — cliente MAPFRE | jul/2026–atual |
+| Fiserv | QA Analyst Pleno | nov/2024–mar/2026 |
+| Fiserv | QA Analyst Jr | abr/2023–out/2024 |
+| Inmetrics | QA Analyst Trainee | nov/2021–jun/2023 |
 
-## Em desenvolvimento
+### Atuação em destaque
 
-- Evoluir scripts de automação para testes com validações.
-- Aplicar esperas explícitas e melhorar a organização dos testes.
-- Aprofundar testes de APIs e boas práticas de E2E.
-- Estudar integração de testes com CI/CD.
+- **NTT DATA / MAPFRE:** análise de requisitos e histórias de usuário, planejamento e execução de casos de teste, validação de regras de negócio de sinistros e acompanhamento de defeitos.
+- **Fiserv:** atuação como ponto focal de QA na Squad Portal do Cliente, definição de cenários críticos, gestão de massas e validação E2E de soluções financeiras.
+- **Inmetrics:** testes funcionais e regressivos, validação de APIs, transações e arquivos CNAB/PTLF, análise de logs e organização de evidências.
+
+## Competências
+
+| Frente | Prática |
+| --- | --- |
+| Planejamento | Análise de requisitos, histórias de usuário, riscos, cenários e casos de teste |
+| Execução | Testes manuais, funcionais, exploratórios, regressivos e E2E |
+| APIs e dados | Validação de integrações, transações, arquivos financeiros e logs |
+| Qualidade em times ágeis | BDD, DoR/DoD, rastreabilidade, evidências e acompanhamento de defeitos |
+| Colaboração | Apoio à tomada de decisão e melhoria contínua dos processos de QA |
+
+**Ferramentas utilizadas:** Postman · Jira · Confluence · Zephyr · QTest · Oracle · Git
+
+## Domínios de negócio
+
+- **Pagamentos e adquirência:** Pix, Link de Pagamento, Split de Pagamentos, bandeiras e vouchers.
+- **Serviços financeiros:** antecipação de recebíveis, Clover Capital, chargeback e recebimentos futuros.
+- **Acessos e cadastro:** MFA, gestão de acessos, hierarquia de clientes e CNPJ alfanumérico.
+- **Seguros:** validação de regras de negócio e processos de sinistro em contexto LATAM.
+
+## Projetos de estudo
+
+| Projeto | Conteúdo | Tecnologias |
+| --- | --- | --- |
+| [Automação web com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Fluxo demonstrativo de pesquisa no YouTube, com instruções de instalação e execução | Python · Selenium WebDriver · Chrome |
+| [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | 33 aulas em seis temas, com índice e exemplos independentes | Python 3 · Lógica de programação |
+
+Os projetos representam minha evolução em programação e automação web.
+
+## Formação acadêmica
+
+- **MBA em Qualidade de Software — Unyleya:** em andamento, ago/2026–mar/2027.
+- **Banco de Dados — UNINOVE:** jun/2019–jun/2022.
+
+## Cursos e certificações
+
+- Automação de Testes Web com Selenium Webdriver e Python.
+- IA: explorando o potencial da inteligência artificial generativa.
+- Aspectos Básicos do Ecossistema de Fintechs e Pagamentos Digitais.
+- Pensamento Computacional: Fundamentos da Computação e Lógica de Programação.
+- Teste de usabilidade parte 1: seu produto é fácil de usar?
+
+## Desenvolvimento contínuo
+
+Estudos em Python e automação web, com interesse em aplicar inteligência artificial ao contexto de testes de software.
 
 ---
 
-**Vamos conversar sobre qualidade de software?**  
-[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [demetrios1045@gmail.com](mailto:demetrios1045@gmail.com)
+**Contato profissional:** [LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [demetrios.10@hotmail.com](mailto:demetrios.10@hotmail.com)
