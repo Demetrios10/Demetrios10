@@ -56,6 +56,30 @@ Minha trajetória reúne testes manuais, funcionais, exploratórios, regressivos
 - **Acessos e cadastro:** MFA, gestão de acessos, hierarquia de clientes e CNPJ alfanumérico.
 - **Seguros:** validação de regras de negócio e processos de sinistro em contexto LATAM.
 
+## Painel de evolução
+
+![Painel de evolução: 2 projetos, 33 aulas de Python, 6 temas e 1 script de automação](assets/evolucao-qa.svg)
+
+**Atualizado em 07/11/2026.** Retrato dos dois repositórios de estudo. As métricas contam conteúdo publicado e são atualizadas manualmente.
+
+| Indicador | Evidência |
+| --- | --- |
+| 33 aulas de Python | [Índice das aulas](https://github.com/Demetrios10/Fundamentos-Python/blob/main/curso_python/README.md) |
+| 6 temas de estudo | Sintaxe, operadores, entrada de dados, condicionais, strings e repetições |
+| 1 script de automação web | [Pesquisa no YouTube com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/scripts/pesquisa_youtube.py) |
+| Formação em andamento | MBA em Qualidade de Software — previsão mar/2027 |
+
+### Próximos marcos
+
+- [x] Publicar e organizar os fundamentos de Python.
+- [x] Publicar um fluxo demonstrativo com Selenium.
+- [x] Documentar instalação, execução e navegação dos projetos.
+- [ ] Adicionar asserções ao fluxo de automação.
+- [ ] Substituir pausas fixas por esperas explícitas.
+- [ ] Garantir o fechamento do navegador em caso de erro.
+- [ ] Estruturar testes com pytest.
+- [ ] Integrar a execução de testes a um fluxo de CI/CD.
+
 ## Projetos de estudo
 
 | Projeto | Conteúdo | Tecnologias |
