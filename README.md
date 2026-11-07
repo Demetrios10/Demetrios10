@@ -1,64 +1,63 @@
-# Demétrios Alves Da Silva
+<div align="center">
 
-QA Analyst / Analista de Testes Pleno, com experiência em testes funcionais, regressivos, exploratórios e E2E, validação de APIs, escrita de cenários em BDD e atuação em sistemas críticos de meios de pagamento.
+# Demétrios Alves da Silva
 
-## Resumo profissional
+**QA Analyst · Analista de Testes Pleno**
 
-Atuo com qualidade de software ao longo do SDLC, desde o entendimento de requisitos até a validação em produção. Tenho foco em análise de riscos, rastreabilidade, documentação de evidências, melhoria contínua e suporte à tomada de decisão em squads ágeis.
+Qualidade de software com foco em APIs, integrações e meios de pagamento.
 
-## Áreas de atuação
+[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [E-mail](mailto:demetrios1045@gmail.com) · [Projetos](#projetos)
 
-| Frente | Atividades |
+</div>
+
+---
+
+## Sobre mim
+
+Atuo com testes funcionais, regressivos, exploratórios e E2E em sistemas de meios de pagamento. Acompanho o ciclo de desenvolvimento desde a análise de requisitos até a validação em produção, com atenção a riscos, rastreabilidade e evidências.
+
+Minha experiência inclui validação de APIs, cenários em BDD, análise de logs e conferência de dados financeiros. Atualmente, aprofundo meus estudos em automação web com Python, Selenium e Playwright.
+
+## Como contribuo para a qualidade
+
+| Área | Atuação |
 | --- | --- |
-| Testes manuais | Testes funcionais, regressivos, exploratórios e E2E |
-| APIs | Validação de contratos, payloads, regras de negócio e integrações |
-| BDD | Escrita, revisão e manutenção de cenários de teste |
-| Riscos | Análise de requisitos, impactos, massa de teste e evidências |
-| Dados | Validação de transações, arquivos financeiros, logs e consistência |
+| Planejamento de testes | Análise de requisitos, riscos, cenários e massa de dados |
+| Validação funcional | Testes exploratórios, regressivos e de ponta a ponta |
+| APIs e integrações | Conferência de contratos, payloads e regras de negócio |
+| Evidências e rastreabilidade | Documentação de resultados e apoio à tomada de decisão |
+| Dados financeiros | Validação de transações, arquivos e conciliação de dados |
 
-## Domínio de negócio
+## Experiência de negócio
 
-Experiência em soluções de meios de pagamento e produtos financeiros:
+**Pagamentos:** Pix, split de pagamentos, chargeback e hierarquia de clientes.  
+**Produtos financeiros:** antecipação de recebíveis, recebimentos futuros e Clover Capital.  
+**Segurança e dados:** MFA, arquivos financeiros e conciliação.
 
-- Pix
-- Split de pagamentos
-- Antecipação de recebíveis
-- MFA
-- Chargeback
-- Clover Capital
-- Hierarquia de clientes
-- Recebimentos futuros
-- Arquivos financeiros e conciliação de dados
+## Ferramentas e estudos
 
-## Ferramentas e tecnologias
+- **Testes e APIs:** Postman, BDD, testes funcionais, regressivos e E2E.
+- **Gestão e documentação:** Jira, Confluence, Zephyr e QTest.
+- **Linguagens e dados:** Python, Java, Oracle e análise de logs.
+- **Aprofundamento atual:** Selenium WebDriver e Playwright com Python.
 
-| Qualidade | Automação e APIs | Gestão e dados |
+## Projetos
+
+Projetos de estudo que registram minha evolução em programação e automação de testes.
+
+| Projeto | O que você encontra | Tecnologias |
 | --- | --- | --- |
-| Testes funcionais | Postman | Jira |
-| Testes regressivos | Selenium | Confluence |
-| Testes E2E | Playwright | Zephyr |
-| BDD | Python | QTest |
-| Análise de logs | Java | Oracle |
+| [Automação web com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Script demonstrativo de pesquisa no YouTube, com guia de instalação e execução | Python · Selenium · Chrome |
+| [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | 33 aulas organizadas em seis temas, com índice e exemplos independentes | Python 3 · Lógica de programação |
 
-## Repositórios em destaque
+## Em desenvolvimento
 
-| Repositório | Objetivo |
-| --- | --- |
-| [Automacao-Selenium-Python](https://github.com/Demetrios10/Automacao-Selenium-Python) | Estudos e estrutura inicial para automação web com Selenium e Python |
-| [Fundamentos-Python](https://github.com/Demetrios10/Fundamentos-Python) | Exercícios e fundamentos de Python, lógica de programação e prática contínua |
+- Evoluir scripts de automação para testes com validações.
+- Aplicar esperas explícitas e melhorar a organização dos testes.
+- Aprofundar testes de APIs e boas práticas de E2E.
+- Estudar integração de testes com CI/CD.
 
-## Aprendizado atual
+---
 
-No momento, sigo aprofundando minha prática em automação de testes, com foco em:
-
-- Python aplicado a QA
-- Selenium WebDriver
-- Playwright com Python
-- APIs e Postman
-- Boas práticas de testes E2E
-- Integração futura com CI/CD
-
-## Contato
-
-- E-mail: demetrios1045@gmail.com
-- LinkedIn: [linkedin.com/in/demetriosalvess](https://www.linkedin.com/in/demetriosalvess)
+**Vamos conversar sobre qualidade de software?**  
+[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [demetrios1045@gmail.com](mailto:demetrios1045@gmail.com)
