@@ -39,15 +39,36 @@ Minha trajetória reúne testes manuais, funcionais, exploratórios, regressivos
 
 ## Competências
 
-| Frente | Prática |
-| --- | --- |
-| Planejamento | Análise de requisitos, histórias de usuário, riscos, cenários e casos de teste |
-| Execução | Testes manuais, funcionais, exploratórios, regressivos e E2E |
-| APIs e dados | Validação de integrações, transações, arquivos financeiros e logs |
-| Qualidade em times ágeis | BDD, DoR/DoD, rastreabilidade, evidências e acompanhamento de defeitos |
-| Colaboração | Apoio à tomada de decisão e melhoria contínua dos processos de QA |
+### Experiência profissional em QA
 
-**Ferramentas utilizadas:** Postman · Jira · Confluence · Zephyr · QTest · Oracle · Git
+| Competência | Aplicação na trajetória profissional |
+| --- | --- |
+| Análise e planejamento de testes | Análise de requisitos e histórias de usuário, identificação de riscos, elaboração de cenários e casos de teste |
+| Testes manuais | Execução de testes funcionais, exploratórios, regressivos e ponta a ponta (E2E) |
+| Testes de APIs e integrações | Validação de regras de negócio, integrações e transações com apoio do Postman |
+| Dados e arquivos financeiros | Validação de arquivos CNAB/PTLF, análise de logs e conferência de dados com apoio do Oracle |
+| Gestão de defeitos e evidências | Registro e acompanhamento de defeitos, documentação de resultados e rastreabilidade |
+| Qualidade em times ágeis | Cenários em BDD, critérios de DoR/DoD e colaboração ao longo do SDLC |
+| Referência de QA na squad | Definição de cenários críticos, gestão de massas de teste e apoio à tomada de decisão |
+
+**Ferramentas utilizadas profissionalmente:** Postman · Jira · Confluence · Zephyr · QTest · Oracle · Git.
+
+### Conhecimentos em desenvolvimento no portfólio
+
+| Conhecimento | Prática registrada nos projetos de estudo |
+| --- | --- |
+| Python | 33 aulas com funções, validação de entradas, operadores, strings e estruturas de repetição |
+| Selenium WebDriver | Interação com formulário de cadastro, seletores e esperas explícitas |
+| Page Object Model (POM) | Separação entre páginas, gerenciamento do navegador, fluxos e testes |
+| Testes automatizados com unittest | Testes unitários, simulações com unittest.mock e cenários preparados para execução em navegador |
+| Evidências de execução | Registros de resultados e captura de tela configurada para sessões de navegador |
+
+Os testes unitários foram executados nos projetos. A execução dos cenários reais de cadastro permanece pendente de validação: as tentativas registradas falharam na inicialização do Chrome.
+
+### Formação complementar e próximos estudos
+
+- **IA generativa:** curso informado no LinkedIn e interesse em aplicação a testes; o portfólio ainda não inclui um projeto que demonstre essa aplicação.
+- **Próximos estudos:** pytest e integração contínua (CI/CD).
 
 ## Domínios de negócio
 
