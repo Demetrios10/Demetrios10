@@ -37,9 +37,7 @@ Minha trajetória reúne testes manuais, funcionais, exploratórios, regressivos
 - **Fiserv:** atuação como ponto focal de QA na Squad Portal do Cliente, definição de cenários críticos, gestão de massas e validação E2E de soluções financeiras.
 - **Inmetrics:** testes funcionais e regressivos, validação de APIs, transações e arquivos CNAB/PTLF, análise de logs e organização de evidências.
 
-## Competências
-
-### Experiência profissional em QA
+### Competências aplicadas
 
 | Competência | Aplicação na trajetória profissional |
 | --- | --- |
@@ -53,7 +51,7 @@ Minha trajetória reúne testes manuais, funcionais, exploratórios, regressivos
 
 **Ferramentas utilizadas profissionalmente:** Postman · Jira · Confluence · Zephyr · QTest · Oracle · Git.
 
-### Conhecimentos em desenvolvimento no portfólio
+## Conhecimentos em desenvolvimento
 
 | Conhecimento | Prática registrada nos projetos de estudo |
 | --- | --- |
