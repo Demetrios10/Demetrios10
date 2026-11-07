@@ -1,3 +1,5 @@
+![Laboratório de QA em pixel art: monitores com scanner, execução de testes e indicadores animados](assets/qa-lab.gif)
+
 <div align="center">
 
 # Demétrios Alves da Silva
