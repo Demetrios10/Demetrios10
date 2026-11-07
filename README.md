@@ -35,8 +35,8 @@ Experiência em soluções de meios de pagamento e produtos financeiros:
 | Qualidade | Automação e APIs | Gestão e dados |
 | --- | --- | --- |
 | Testes funcionais | Postman | Jira |
-| Testes regressivos | Selenium | Confluence | playwright
-| Testes E2E | Zephyr |
+| Testes regressivos | Selenium | Confluence |
+| Testes E2E | Playwright | Zephyr |
 | BDD | Python | QTest |
 | Análise de logs | Java | Oracle |
 
@@ -45,8 +45,7 @@ Experiência em soluções de meios de pagamento e produtos financeiros:
 | Repositório | Objetivo |
 | --- | --- |
 | [Automacao-Selenium-Python](https://github.com/Demetrios10/Automacao-Selenium-Python) | Estudos e estrutura inicial para automação web com Selenium e Python |
-| [Meu-Projeto](https://github.com/Demetrios10/Meu-Projeto) | Exercícios e fundamentos de Python, lógica de programação e prática contínua |
-| [Fundamentos-Java](https://github.com/Demetrios10/Fundamentos-Java) | Estudos de Java, lógica de programação e primeiros conceitos de POO |
+| [Fundamentos-Python](https://github.com/Demetrios10/Fundamentos-Python) | Exercícios e fundamentos de Python, lógica de programação e prática contínua |
 
 ## Aprendizado atual
 
@@ -54,7 +53,7 @@ No momento, sigo aprofundando minha prática em automação de testes, com foco 
 
 - Python aplicado a QA
 - Selenium WebDriver
-- playwright com Python
+- Playwright com Python
 - APIs e Postman
 - Boas práticas de testes E2E
 - Integração futura com CI/CD
