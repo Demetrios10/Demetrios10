@@ -87,7 +87,7 @@ Os testes unitários foram executados nos projetos. A execução dos cenários r
 | --- | --- |
 | 33 aulas de Python | [Índice das aulas](https://github.com/Demetrios10/Fundamentos-Python/blob/main/curso_python/README.md) |
 | 6 temas de estudo | Sintaxe, operadores, entrada de dados, condicionais, strings e repetições |
-| 1 script de automação web | [Pesquisa no YouTube com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/scripts/pesquisa_youtube.py) |
+| 1 script de automação web | [Formulário de cadastro — Automation Testing](https://demo.automationtesting.in/Register.html) |
 | Formação em andamento | MBA em Qualidade de Software — previsão mar/2027 |
 
 ### Próximos marcos
@@ -105,7 +105,7 @@ Os testes unitários foram executados nos projetos. A execução dos cenários r
 
 | Projeto | Conteúdo | Tecnologias |
 | --- | --- | --- |
-| [Automação web com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Fluxo demonstrativo de pesquisa no YouTube, com instruções de instalação e execução | Python · Selenium WebDriver · Chrome |
+| [Automação web com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Automação do formulário de cadastro do Automation Testing com Selenium, com instruções de instalação e execução | Python · Selenium WebDriver · Chrome |
 | [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | 33 aulas em seis temas, com índice e exemplos independentes | Python 3 · Lógica de programação |
 
 Os projetos representam minha evolução em programação e automação web.
