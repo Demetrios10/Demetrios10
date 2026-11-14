@@ -1,4 +1,4 @@
-![Qualidade de software: do cenário à evidência](assets/portfolio-qa.svg)
+![Desenvolvimento com propósito: Python, automação e APIs](assets/portfolio-qa.svg)
 
 # Demétrios Alves da Silva
 
