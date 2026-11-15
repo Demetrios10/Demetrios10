@@ -36,4 +36,4 @@ Também desenvolvi o **API Monitor** e uma suíte de interface com Playwright, m
 - Validar os cenários Selenium no navegador e ampliar a cobertura de integrações reais.
 - Evoluir a execução dos testes em CI, preservando isolamento e rastreabilidade.
 
-<sub>Revisado em 14/11/2026. O banner é uma animação ilustrativa; os resultados documentados estão no portfólio.</sub>
+<sub>Revisado em 14/11/2026. Os resultados documentados estão no portfólio.</sub>
