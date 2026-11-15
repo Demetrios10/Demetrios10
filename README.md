@@ -1,5 +1,3 @@
-![Dev Lab de Demétrios: animação de código e testes em loop, sem dados ao vivo](assets/dev-lab-exclusivo.gif)
-
 # Demétrios Alves da Silva
 
 **QA Analyst · Testes funcionais e de APIs · Automação com Python**
