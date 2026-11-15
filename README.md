@@ -1,4 +1,4 @@
-![Desenvolvimento com propósito: Python, automação e APIs](assets/portfolio-qa.svg)
+![Dev Lab de Demétrios: animação de código e testes em loop, sem dados ao vivo](assets/dev-lab-exclusivo.gif)
 
 # Demétrios Alves da Silva
 
