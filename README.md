@@ -6,54 +6,36 @@
 
 Pagamentos, adquirência e seguros · São Paulo, Brasil
 
-[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [Contato](mailto:demetrios.10@hotmail.com) · [Portfólio completo](PORTFOLIO.md) · [Experiência e formação](docs/EXPERIENCIA.md)
+[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [E-mail](mailto:demetrios.10@hotmail.com) · [Portfólio e resultados](PORTFOLIO.md) · [Experiência e formação](docs/EXPERIENCIA.md)
 
 ## Sobre mim
 
-Atuo com qualidade de software em times ágeis, da análise de requisitos à homologação e validação em produção. Minha experiência reúne testes funcionais, exploratórios, regressivos e ponta a ponta, validação de APIs, BDD e análise de dados.
+Atuo com qualidade de software em times ágeis, da análise de requisitos à homologação e validação em produção. Minha experiência inclui testes funcionais, exploratórios, regressivos e ponta a ponta, APIs, BDD, análise de dados e acompanhamento de defeitos.
 
-Na NTT DATA, participo da Squad de Sinistro do cliente MAPFRE em um projeto LATAM. Antes, atuei na Fiserv e na Inmetrics, com sistemas financeiros, pagamentos e integrações.
+Nos projetos pessoais, desenvolvo minha prática em Python e automação: cenários legíveis, Page Objects, ambientes isolados e evidências de execução.
 
-Os projetos pessoais abaixo mostram minha evolução em programação e automação: organização do código, cenários de teste, execução reproduzível e evidências com limites explícitos.
+## Projetos públicos
 
-## Projetos em destaque
+| Projeto | O que você encontra |
+| --- | --- |
+| [SauceDemo · Playwright](https://github.com/Demetrios10/saucedemo-playwright-python) | Login, carrinho e compras de 1 a 5 produtos; POM, validação de valores e capturas por cenário |
+| [Cadastro · Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Formulário com Page Object, esperas explícitas e registro de resultados por cenário |
+| [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | 33 aulas em seis temas, tratamento de entradas e testes com unittest |
 
-### Automação web com Selenium · público
+Também desenvolvi o **API Monitor** e uma suíte de interface com Playwright, mantidos em repositórios privados. O [portfólio técnico](PORTFOLIO.md) apresenta o resumo e os limites da validação.
 
-Formulário de cadastro com **Page Objects, esperas explícitas e sessões isoladas**. Oito testes unitários aprovados no relatório disponível; 11 cenários de navegador definidos, com execução real ainda pendente após falha na inicialização do Chrome.
+## Competências
 
-[Repositório](https://github.com/Demetrios10/Automacao-Selenium-Python) · [Estudo de caso](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/docs/PORTFOLIO.md) · [Evidências](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/docs/RELATORIO-TESTES.md)
+| Contexto | Conhecimentos e prática |
+| --- | --- |
+| Experiência profissional | Planejamento e execução de testes, APIs, BDD, homologação, análise de riscos e gestão de defeitos |
+| Ferramentas profissionais | Postman, Jira, Confluence, Zephyr, QTest, Oracle e Git |
+| Automação nos projetos | Python, Selenium, Playwright, pytest, unittest, Page Object Model e evidências por cenário |
+| Desenvolvimento pessoal | FastAPI, SQLite, Jinja2, JavaScript e CSS responsivo |
 
-### Fundamentos de Python · público
+## Próximos passos
 
-**33 aulas em seis temas**, com tratamento de entradas, execução independente e testes com unittest. O relatório disponível registra nove testes aprovados, incluindo verificações que percorrem todas as aulas.
+- Validar os cenários Selenium no navegador e ampliar a cobertura de integrações reais.
+- Evoluir a execução dos testes em CI, preservando isolamento e rastreabilidade.
 
-[Repositório](https://github.com/Demetrios10/Fundamentos-Python) · [Estudo de caso](https://github.com/Demetrios10/Fundamentos-Python/blob/main/docs/PORTFOLIO.md) · [Trilha de estudo](https://github.com/Demetrios10/Fundamentos-Python/blob/main/curso_python/README.md)
-
-### API Monitor e automação com Playwright · privados
-
-Aplicação de monitoramento com Python/FastAPI e painel responsivo, acompanhada de uma suíte separada com **43 testes aprovados no Chromium**. Os casos cobrem acesso, recuperação de senha, monitores, incidentes e quatro larguras de tela, com banco descartável por teste e integrações externas controladas.
-
-O código e os relatórios completos têm acesso restrito. Veja o [resumo técnico público](PORTFOLIO.md#api-monitor-e-playwright) para conhecer o escopo e os limites da validação.
-
-## Competências aplicadas
-
-| Contexto | Prática |
-|---|---|
-| Experiência profissional | Testes funcionais, exploratórios, regressivos, APIs, BDD, homologação e análise de defeitos |
-| Automação nos projetos | Python, Selenium WebDriver, Playwright, pytest, unittest e Page Objects |
-| Aplicação pessoal | FastAPI, SQLite, Jinja2, JavaScript e CSS responsivo |
-| Evidências e colaboração | Git, relatórios HTML/JUnit, mocks, ambientes descartáveis e documentação |
-| Ferramentas profissionais | Postman, Jira, Confluence, Zephyr, QTest e Oracle |
-
-## Evolução atual
-
-- Entregue: trilha Python, automação Selenium, API Monitor e suíte Playwright executada localmente.
-- Próximo passo: configurar o acesso privado e executar o workflow manual do Playwright no GitHub Actions.
-- Pendente: validar os 11 cenários Selenium em um ambiente com Chrome funcional e ampliar os testes de integrações reais.
-
-O [portfólio completo](PORTFOLIO.md) reúne problema, solução, decisões e evidências de cada projeto. A [trajetória profissional](docs/EXPERIENCIA.md) detalha experiência, formação e cursos.
-
-**Vamos conversar sobre qualidade de software e automação?** [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/demetriosalvess).
-
-<sub>Revisado em 09/11/2026. Resultados são registros das execuções documentadas, não indicadores contínuos de CI.</sub>
+<sub>Revisado em 14/11/2026. O banner é uma animação ilustrativa; os resultados documentados estão no portfólio.</sub>
