@@ -17,6 +17,7 @@ Nos projetos pessoais, desenvolvo minha prática em Python e automação: cenár
 | Projeto | O que você encontra |
 | --- | --- |
 | [SauceDemo · Playwright](https://github.com/Demetrios10/saucedemo-playwright-python) | Login, carrinho e compras de 1 a 5 produtos; POM, validação de valores e capturas por cenário |
+| [Cadastro completo · Playwright](https://github.com/Demetrios10/automation-demo-playwright-python) | Formulário completo, 22 cenários, POM e evidências dos problemas encontrados no site |
 | [Cadastro · Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Formulário com Page Object, esperas explícitas e registro de resultados por cenário |
 | [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | 33 aulas em seis temas, tratamento de entradas e testes com unittest |
 
@@ -33,7 +34,7 @@ Também desenvolvi o **API Monitor** e uma suíte de interface com Playwright, m
 
 ## Próximos passos
 
-- Validar os cenários Selenium no navegador e ampliar a cobertura de integrações reais.
-- Evoluir a execução dos testes em CI, preservando isolamento e rastreabilidade.
+- Resolver a inicialização do Chrome no Selenium e ampliar a cobertura de integrações reais.
+- Acompanhar as verificações de CI e os problemas externos do cadastro, preservando evidências.
 
-<sub>Revisado em 14/11/2026. Os resultados documentados estão no portfólio.</sub>
+<sub>Revisado em 16/11/2026. Os resultados documentados estão no portfólio.</sub>

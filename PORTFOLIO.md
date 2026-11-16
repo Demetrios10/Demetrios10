@@ -10,13 +10,24 @@ Projetos pessoais de estudo e desenvolvimento. Os casos abaixo não representam 
 
 | Projeto | Último registro consultado | Resultado | Evidência |
 | --- | --- | --- | --- |
-| SauceDemo · Playwright | 14/11/2026 | 20 cenários E2E aprovados; 35 capturas | [Relatório público](https://github.com/Demetrios10/saucedemo-playwright-python/blob/main/evidencias/RELATORIO.md) |
-| Cadastro · Selenium | 12/11/2026 | 12 testes sem navegador aprovados; 11 cenários externos ignorados | [Relatório público](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/evidencias/REVISAO-2026-11-12.md) |
-| Fundamentos de Python | 07/11/2026 | 9 testes aprovados, incluindo execução e importação das 33 aulas | [Relatório público](https://github.com/Demetrios10/Fundamentos-Python/blob/main/evidencias/RELATORIO.md) |
-| API Monitor · backend | 12/11/2026 | 25 testes aprovados | Repositório privado |
-| API Monitor · Playwright | 12/11/2026 | 43 cenários de interface aprovados; 43 capturas | Repositório privado |
+| Cadastro completo · Playwright | 15/11/2026 | 22 cenários: 20 aprovados e duas falhas do site; 23 capturas | [Relatório público](https://github.com/Demetrios10/automation-demo-playwright-python/blob/main/docs/RESULTADOS.md) |
+| SauceDemo · Playwright | 16/11/2026 | 20 cenários E2E aprovados | [Revisão pública](https://github.com/Demetrios10/saucedemo-playwright-python/blob/main/evidencias/REVISAO-2026-11-16.md) |
+| Cadastro · Selenium | 16/11/2026 | 12 testes sem navegador aprovados; os 11 E2E tiveram erros ao iniciar o Chrome | [Revisão pública](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/evidencias/REVISAO-2026-11-16.md) |
+| Fundamentos de Python | 16/11/2026 | 9 testes aprovados, com execução e importação das 33 aulas | [Revisão pública](https://github.com/Demetrios10/Fundamentos-Python/blob/main/evidencias/REVISAO-2026-11-16.md) |
+| API Monitor · backend | 16/11/2026 | 25 testes aprovados | Repositório privado |
+| API Monitor · Playwright | 16/11/2026 | 43 cenários de interface e um teste do coletor aprovados | Repositório privado |
 
 São execuções locais sob condições diferentes, não indicadores contínuos de CI ou percentuais de cobertura. Cenários ignorados não são contados como aprovados.
+
+## Cadastro completo · Playwright
+
+**Objetivo:** automatizar o formulário de cadastro com dados fictícios, Page Object Model e evidências por cenário.
+
+**Implementação:** Python, pytest e Playwright; dados pessoais, gêneros, hobbies, idiomas, habilidade, país com busca, nascimento, senhas, foto e validações negativas. O fluxo de envio está implementado e aguarda navegação real; não há simulação de sucesso.
+
+**Resultado e limites:** 20 dos 22 cenários passaram. O campo Country obrigatório não oferece opções e bloqueia o cadastro completo. A seleção do arquivo funciona, mas a prévia da foto não muda. As duas falhas e as capturas foram preservadas; não há comprovação de cadastro finalizado.
+
+[Repositório](https://github.com/Demetrios10/automation-demo-playwright-python) · [Evidências](https://github.com/Demetrios10/automation-demo-playwright-python/tree/main/evidencias/validacao-inicial) · [Problemas encontrados](https://github.com/Demetrios10/automation-demo-playwright-python/blob/main/docs/DEFEITOS.md)
 
 ## SauceDemo · Playwright
 
@@ -40,7 +51,7 @@ São execuções locais sob condições diferentes, não indicadores contínuos 
 
 **Decisões:** esperas explícitas, sessão própria por cenário, encerramento do navegador e evidências estruturadas para resultados, falhas e cenários ignorados.
 
-**Limite:** a revisão mais recente executou os testes sem navegador e ignorou os cenários externos. Tentativas anteriores falharam ao iniciar o Chrome; não há comprovação de aprovação E2E desse formulário.
+**Limite:** a revisão executou os testes sem navegador e tentou os 11 cenários externos. Todos os E2E apresentaram erro ao iniciar o Chrome; não há comprovação de aprovação E2E desse formulário.
 
 [Repositório](https://github.com/Demetrios10/Automacao-Selenium-Python) · [Evidências por cenário](https://github.com/Demetrios10/Automacao-Selenium-Python/tree/main/evidencias/revisao-2026-11-12)
 
@@ -70,4 +81,4 @@ São execuções locais sob condições diferentes, não indicadores contínuos 
 
 **Acesso:** código e evidências completos permanecem privados. Este resumo não disponibiliza bancos, credenciais, capturas operacionais ou dados de usuários.
 
-Revisão documental: 14/11/2026, com base nos relatórios indicados. Não houve nova execução de testes apenas para atualizar esta página.
+Revisão: 16/11/2026. Os projetos indicados foram executados novamente, exceto o cadastro Playwright, cujo resultado de 15/11 foi preservado. Veja a [revisão geral do GitHub](docs/REVISAO-GITHUB.md).
