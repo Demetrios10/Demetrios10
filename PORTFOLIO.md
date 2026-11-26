@@ -10,6 +10,7 @@ Projetos pessoais de estudo e desenvolvimento. Os casos abaixo não representam 
 
 | Projeto | Último registro consultado | Resultado | Evidência |
 | --- | --- | --- | --- |
+| QA Portal · FastAPI | 26/11/2026 | 49 testes unitários e de integração aprovados; API, páginas e E2E ainda sem execução registrada | [Repositório](https://github.com/Demetrios10/qa-portal-fastapi) |
 | Cadastro completo · Playwright | 15/11/2026 | 22 cenários: 20 aprovados e duas falhas do site; 23 capturas | [Relatório público](https://github.com/Demetrios10/automation-demo-playwright-python/blob/main/docs/RESULTADOS.md) |
 | SauceDemo · Playwright | 16/11/2026 | 20 cenários E2E aprovados | [Revisão pública](https://github.com/Demetrios10/saucedemo-playwright-python/blob/main/evidencias/REVISAO-2026-11-16.md) |
 | Cadastro · Selenium | 16/11/2026 | 12 testes sem navegador aprovados; os 11 E2E tiveram erros ao iniciar o Chrome | [Revisão pública](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/evidencias/REVISAO-2026-11-16.md) |
@@ -18,6 +19,18 @@ Projetos pessoais de estudo e desenvolvimento. Os casos abaixo não representam 
 | API Monitor · Playwright | 16/11/2026 | 43 cenários de interface e um teste do coletor aprovados | Repositório privado |
 
 São execuções locais sob condições diferentes, não indicadores contínuos de CI ou percentuais de cobertura. Cenários ignorados não são contados como aprovados.
+
+## QA Portal · FastAPI
+
+**Objetivo:** construir uma aplicação própria, com regras de negócio explícitas, para praticar testes em todas as camadas.
+
+**Aplicação:** portal de tarefas com FastAPI, Jinja2 e SQLite, organizado em Clean Architecture (domínio, casos de uso, infraestrutura e apresentação). Inclui cadastro e login, CRUD de tarefas, fluxo de status, filtros, painel de atrasadas e API REST com token Bearer.
+
+**Automação:** testes unitários com fakes em memória, integração com SQLite temporário, API e formulários via TestClient e E2E com Playwright e Page Object Model, incluindo diálogo de confirmação. Todos os elementos têm data-testid, e doze regras de negócio (RN01–RN12) documentadas servem de base para os casos de teste.
+
+**Limites:** em 26/11/2026 foram executados os 49 testes unitários e de integração. Os testes de API, de páginas e E2E foram escritos, mas ainda não têm execução registrada; o workflow do GitHub Actions deve ser a primeira evidência.
+
+[Repositório](https://github.com/Demetrios10/qa-portal-fastapi) · [Regras de negócio](https://github.com/Demetrios10/qa-portal-fastapi#regras-de-negócio-base-para-casos-de-teste)
 
 ## Cadastro completo · Playwright
 
