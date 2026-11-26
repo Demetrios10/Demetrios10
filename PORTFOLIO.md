@@ -10,7 +10,7 @@ Projetos pessoais de estudo e desenvolvimento. Os casos abaixo não representam 
 
 | Projeto | Último registro consultado | Resultado | Evidência |
 | --- | --- | --- | --- |
-| QA Portal · FastAPI | 26/11/2026 | 82 testes aprovados no GitHub Actions: 70 unitários, de integração e API, e 12 E2E com Playwright | [Execução no CI](https://github.com/Demetrios10/qa-portal-fastapi/actions/runs/45902711540) |
+| QA Portal · FastAPI | 26/11/2026 | 84 testes aprovados no GitHub Actions: 72 unitários, de integração e API, e 12 E2E com Playwright; 25 capturas | [Evidências](https://github.com/Demetrios10/qa-portal-fastapi/blob/main/evidencias/README.md) |
 | Cadastro completo · Playwright | 15/11/2026 | 22 cenários: 20 aprovados e duas falhas do site; 23 capturas | [Relatório público](https://github.com/Demetrios10/automation-demo-playwright-python/blob/main/docs/RESULTADOS.md) |
 | SauceDemo · Playwright | 16/11/2026 | 20 cenários E2E aprovados | [Revisão pública](https://github.com/Demetrios10/saucedemo-playwright-python/blob/main/evidencias/REVISAO-2026-11-16.md) |
 | Cadastro · Selenium | 16/11/2026 | 12 testes sem navegador aprovados; os 11 E2E tiveram erros ao iniciar o Chrome | [Revisão pública](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/evidencias/REVISAO-2026-11-16.md) |
@@ -28,9 +28,9 @@ São execuções locais sob condições diferentes, não indicadores contínuos 
 
 **Automação:** testes unitários com fakes em memória, integração com SQLite temporário, API e formulários via TestClient e E2E com Playwright e Page Object Model, incluindo diálogo de confirmação. Todos os elementos têm data-testid, e doze regras de negócio (RN01–RN12) documentadas servem de base para os casos de teste.
 
-**Resultado e limites:** em 26/11/2026 o GitHub Actions executou lint e os 82 testes, todos aprovados (70 sem navegador e 12 E2E em Chromium headless). Não houve execução em Firefox/WebKit, testes de carga ou de acessibilidade.
+**Resultado e limites:** em 26/11/2026 o GitHub Actions executou lint e os 84 testes, todos aprovados (72 sem navegador e 12 E2E em Chromium headless), com 25 capturas por etapa. Não houve execução em Firefox/WebKit, testes de carga ou de acessibilidade.
 
-[Repositório](https://github.com/Demetrios10/qa-portal-fastapi) · [Execução no CI](https://github.com/Demetrios10/qa-portal-fastapi/actions/runs/45902711540) · [Regras de negócio](https://github.com/Demetrios10/qa-portal-fastapi#regras-de-negócio-base-para-casos-de-teste)
+[Repositório](https://github.com/Demetrios10/qa-portal-fastapi) · [Evidências por cenário](https://github.com/Demetrios10/qa-portal-fastapi/tree/main/evidencias) · [Execução no CI](https://github.com/Demetrios10/qa-portal-fastapi/actions/runs/45905480648) · [Regras de negócio](https://github.com/Demetrios10/qa-portal-fastapi#regras-de-negócio-base-para-casos-de-teste)
 
 ## Cadastro completo · Playwright
 
