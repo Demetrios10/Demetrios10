@@ -1,84 +1,59 @@
 # Portfólio técnico de QA
 
-**Demétrios Alves da Silva · Python, testes e automação**
+**Demétrios Alves da Silva** · [Perfil](README.md) · [Experiência](docs/EXPERIENCIA.md) · [LinkedIn](https://www.linkedin.com/in/demetriosalvess)
 
-[Perfil](README.md) · [Experiência e formação](docs/EXPERIENCIA.md) · [LinkedIn](https://www.linkedin.com/in/demetriosalvess)
-
-Projetos pessoais de estudo e desenvolvimento. Os casos abaixo não representam sistemas ou entregas dos clientes das empresas em que trabalhei.
+Projetos pessoais de estudo e desenvolvimento, sem relação com sistemas ou entregas de clientes das empresas em que trabalhei. Todos usam dados fictícios. Cada repositório traz instruções de execução, evidências por cenário e um estudo de caso detalhado.
 
 ## Resultados documentados
 
-| Projeto | Último registro consultado | Resultado | Evidência |
-| --- | --- | --- | --- |
-| Cadastro completo · Playwright | 15/11/2026 | 22 cenários: 20 aprovados e duas falhas do site; 23 capturas | [Relatório público](https://github.com/Demetrios10/automation-demo-playwright-python/blob/main/docs/RESULTADOS.md) |
-| SauceDemo · Playwright | 16/11/2026 | 20 cenários E2E aprovados | [Revisão pública](https://github.com/Demetrios10/saucedemo-playwright-python/blob/main/evidencias/REVISAO-2026-11-16.md) |
-| Cadastro · Selenium | 16/11/2026 | 12 testes sem navegador aprovados; os 11 E2E tiveram erros ao iniciar o Chrome | [Revisão pública](https://github.com/Demetrios10/Automacao-Selenium-Python/blob/main/evidencias/REVISAO-2026-11-16.md) |
-| Fundamentos de Python | 16/11/2026 | 9 testes aprovados, com execução e importação das 33 aulas | [Revisão pública](https://github.com/Demetrios10/Fundamentos-Python/blob/main/evidencias/REVISAO-2026-11-16.md) |
-| API Monitor · backend | 16/11/2026 | 25 testes aprovados | Repositório privado |
-| API Monitor · Playwright | 16/11/2026 | 43 cenários de interface e um teste do coletor aprovados | Repositório privado |
+| Projeto | Resultado registrado | Data |
+| --- | --- | --- |
+| [SauceDemo E2E](#saucedemo-e2e) | 20 cenários E2E aprovados | 16/11/2026 |
+| [Cadastro Web](#cadastro-web) | 20 de 22 cenários aprovados; 2 defeitos do site documentados | 15/11/2026 |
+| [Cadastro com Selenium](#cadastro-com-selenium) | Testes unitários aprovados no CI; E2E executado sob demanda | 16/11/2026 |
+| [Fundamentos de Python](#fundamentos-de-python) | Execução e importação das 33 aulas verificadas | 16/11/2026 |
+| [API Monitor](#api-monitor-privado) | 25 testes de backend e 43 cenários de interface aprovados | 16/11/2026 |
 
-São execuções locais sob condições diferentes, não indicadores contínuos de CI ou percentuais de cobertura. Cenários ignorados não são contados como aprovados.
+São execuções pontuais em ambientes diferentes, e não métricas contínuas de cobertura. Cenários ignorados não entram como aprovados.
 
-## Cadastro completo · Playwright
+## Automação de API
 
-**Objetivo:** automatizar o formulário de cadastro com dados fictícios, Page Object Model e evidências por cenário.
+Testes REST contra a JSONPlaceholder: contrato JSON, CRUD simulado, filtros e cenários negativos, com cliente HTTP isolado, fixtures, parametrização e testes unitários do roteamento. Roda no GitHub Actions a cada push.
 
-**Implementação:** Python, pytest e Playwright; dados pessoais, gêneros, hobbies, idiomas, habilidade, país com busca, nascimento, senhas, foto e validações negativas. O fluxo de envio está implementado e aguarda navegação real; não há simulação de sucesso.
+[Repositório](https://github.com/Demetrios10/Automa-o-API)
 
-**Resultado e limites:** 20 dos 22 cenários passaram. O campo Country obrigatório não oferece opções e bloqueia o cadastro completo. A seleção do arquivo funciona, mas a prévia da foto não muda. As duas falhas e as capturas foram preservadas; não há comprovação de cadastro finalizado.
+## SauceDemo E2E
 
-[Repositório](https://github.com/Demetrios10/automation-demo-playwright-python) · [Evidências](https://github.com/Demetrios10/automation-demo-playwright-python/tree/main/evidencias/validacao-inicial) · [Problemas encontrados](https://github.com/Demetrios10/automation-demo-playwright-python/blob/main/docs/DEFEITOS.md)
+Jornada de compra completa: login por botão e Enter, credenciais inválidas, usuário bloqueado, logout, compras de 1 a 5 produtos, campos obrigatórios, cancelamento do checkout e remoção de itens.
 
-## SauceDemo · Playwright
+- **Decisões:** contexto isolado por cenário, seletores `data-test` e comparação de valores com `Decimal`, em centavos
+- **Achado:** imprecisão de ponto flutuante no subtotal exibido pelo site, [documentada](https://github.com/Demetrios10/saucedemo-playwright-python/blob/main/docs/ANOMALIAS.md)
 
-**Objetivo:** verificar o caminho de compra de um e-commerce demonstrativo, incluindo autenticação e comportamento do carrinho.
+[Repositório](https://github.com/Demetrios10/saucedemo-playwright-python) · [Evidências](https://github.com/Demetrios10/saucedemo-playwright-python/tree/main/evidencias/revisao-2026-11-14)
 
-**Implementação:** Python, pytest e Playwright com páginas de login, catálogo, carrinho, informações de checkout, resumo e confirmação. Um componente de produto compartilha a leitura de nomes, quantidades e preços entre telas.
+## Cadastro Web
 
-**Cobertura:** login por botão e Enter; credenciais inválidas e campos ausentes; usuário bloqueado; logout; compras finalizadas de 1, 2, 3, 4 e 5 produtos; campos obrigatórios; cancelamento do checkout; remoção de item e retorno ao catálogo.
+Formulário completo com Page Object Model: dados pessoais, gênero, hobbies, idiomas, país com busca, data de nascimento, senhas, upload de foto e validações negativas. O envio só conta como sucesso se a navegação real acontecer; nenhum resultado é simulado.
 
-**Decisões:** contexto independente por cenário, seletores data-test, comparação monetária com Decimal e capturas do carrinho, resumo e confirmação.
+- **Achados:** o campo obrigatório *Country* não oferece opções, o que bloqueia o cadastro, e a prévia da foto não é atualizada. Os dois [defeitos](https://github.com/Demetrios10/automation-demo-playwright-python/blob/main/docs/DEFEITOS.md) foram registrados com evidências.
 
-**Limites e observações:** ambiente externo de demonstração, sem cobrança ou entrega real. Uma imprecisão do subtotal exibido pelo site foi documentada; as verificações monetárias usam centavos. Isso não corrige a formatação da interface.
+[Repositório](https://github.com/Demetrios10/automation-demo-playwright-python) · [Evidências](https://github.com/Demetrios10/automation-demo-playwright-python/tree/main/evidencias/validacao-inicial)
 
-[Repositório](https://github.com/Demetrios10/saucedemo-playwright-python) · [Evidências por cenário](https://github.com/Demetrios10/saucedemo-playwright-python/tree/main/evidencias/revisao-2026-11-14) · [Anomalia documentada](https://github.com/Demetrios10/saucedemo-playwright-python/blob/main/docs/ANOMALIAS.md)
+## Cadastro com Selenium
 
-## Cadastro · Selenium
+Page Object com esperas explícitas, sessão de Chrome própria por cenário e evidências estruturadas de resultados, falhas e cenários ignorados. Os testes unitários do Page Object rodam no CI; os 11 cenários E2E rodam sob demanda, porque dependem do Chrome e de um site externo.
 
-**Objetivo:** transformar interações com um formulário em cenários legíveis e verificáveis.
-
-**Implementação:** Page Object para campos e ações, gerenciador da sessão Chrome e testes separados. O fluxo usa dados fictícios, sem enviar cadastro ao servidor.
-
-**Decisões:** esperas explícitas, sessão própria por cenário, encerramento do navegador e evidências estruturadas para resultados, falhas e cenários ignorados.
-
-**Limite:** a revisão executou os testes sem navegador e tentou os 11 cenários externos. Todos os E2E apresentaram erro ao iniciar o Chrome; não há comprovação de aprovação E2E desse formulário.
-
-[Repositório](https://github.com/Demetrios10/Automacao-Selenium-Python) · [Evidências por cenário](https://github.com/Demetrios10/Automacao-Selenium-Python/tree/main/evidencias/revisao-2026-11-12)
+[Repositório](https://github.com/Demetrios10/Automacao-Selenium-Python) · [Evidências](https://github.com/Demetrios10/Automacao-Selenium-Python/tree/main/evidencias/revisao-2026-11-12)
 
 ## Fundamentos de Python
 
-**Objetivo:** manter uma trilha de exercícios que permita execução, revisão e importação independente.
-
-**Implementação:** aulas organizadas por assunto, funções main(), tratamento de entradas e verificações automatizadas.
-
-**Decisões:** exemplos pequenos, importações sem impressão ou leitura de dados e comparação de resultados conhecidos.
-
-**Limite:** as verificações usam entradas de exemplo e não cobrem todas as combinações possíveis.
+Trilha de 33 aulas em seis temas, com funções `main()`, tratamento de entradas e testes que verificam a execução e a importação de cada aula, testados em Python 3.12 e 3.14.
 
 [Repositório](https://github.com/Demetrios10/Fundamentos-Python) · [Índice das aulas](https://github.com/Demetrios10/Fundamentos-Python/blob/main/curso_python/README.md)
 
-## API Monitor e Playwright
+## API Monitor (privado)
 
-**Objetivo:** acompanhar APIs e verificar fluxos críticos do painel sem alterar os dados da instalação de uso diário.
+Aplicação para monitorar APIs, feita com FastAPI, SQLite e Jinja2: monitores HTTP/JSON, histórico, incidentes, alertas por e-mail e Telegram, importação e exportação, backups e gestão de acesso. Uma suíte separada em Playwright cobre autenticação, recuperação de senha, monitores, operações e layout responsivo de 320 a 1440 px. Cada cenário usa uma instância descartável da aplicação.
 
-**Aplicação:** projeto pessoal com FastAPI, SQLite, Jinja2 e interface responsiva. Inclui monitores HTTP/JSON, histórico, incidentes, alertas, importação/exportação, backups e gestão de acesso.
-
-**Automação:** suíte separada com pytest, Playwright, páginas por responsabilidade e componente de linha de monitor. Cada cenário usa aplicação local, banco e credenciais descartáveis. Testes de API são mantidos no backend, sem impor POM a serviços.
-
-**Cobertura de interface:** autenticação, troca e recuperação de senha, monitores, incidentes, operações e larguras de 320, 390, 768 e 1440 pixels.
-
-**Limites:** APIs monitoradas e envios de e-mail/Telegram são controlados pelo ambiente de teste. Os resultados não comprovam entrega real de mensagens, funcionamento em produção, carga ou execução em Firefox/WebKit.
-
-**Acesso:** código e evidências completos permanecem privados. Este resumo não disponibiliza bancos, credenciais, capturas operacionais ou dados de usuários.
-
-Revisão: 16/11/2026. Os projetos indicados foram executados novamente, exceto o cadastro Playwright, cujo resultado de 15/11 foi preservado. Veja a [revisão geral do GitHub](docs/REVISAO-GITHUB.md).
+- **Limites:** as APIs monitoradas e os envios de mensagens são simulados no ambiente de teste; não há validação de produção, carga ou Firefox/WebKit.
+- **Acesso:** código e evidências são privados; este resumo não expõe dados, credenciais ou capturas operacionais.

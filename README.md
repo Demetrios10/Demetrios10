@@ -1,45 +1,34 @@
 # Demétrios Alves da Silva
 
-**QA Analyst · Testes funcionais e de APIs · Automação com Python**
+**QA Analyst** · Testes funcionais, E2E e de APIs · Automação com Python
 
-Pagamentos, adquirência e seguros · São Paulo, Brasil
+São Paulo, Brasil · [LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [E-mail](mailto:demetrios.10@hotmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/demetriosalvess) · [E-mail](mailto:demetrios.10@hotmail.com) · [Portfólio e resultados](PORTFOLIO.md) · [Experiência e formação](docs/EXPERIENCIA.md)
+Analista de QA com atuação em times ágeis nos segmentos de **meios de pagamento, adquirência, serviços financeiros e seguros**. Participo de todo o ciclo de desenvolvimento, da análise de requisitos à homologação: planejamento e execução de testes funcionais, exploratórios, regressivos e ponta a ponta, validação de APIs e regras de negócio e gestão de defeitos.
 
-## Sobre mim
+Hoje atuo na **NTT DATA**, alocado na Squad de Sinistro da MAPFRE em um projeto LATAM. Fora do trabalho, desenvolvo projetos de automação com Python, Playwright e Selenium.
 
-Atuo com qualidade de software em times ágeis, da análise de requisitos à homologação e validação em produção. Minha experiência inclui testes funcionais, exploratórios, regressivos e ponta a ponta, APIs, BDD, análise de dados e acompanhamento de defeitos.
+## Projetos em destaque
 
-Nos projetos pessoais, desenvolvo automação com Python, Playwright, Selenium e Pytest, incluindo testes de API REST, Page Object Model, cenários parametrizados e evidências de execução. Atualmente curso pós-graduação em Qualidade de Software pela Unyleya.
+| Projeto | Foco | Stack |
+| --- | --- | --- |
+| [Automação de API](https://github.com/Demetrios10/Automa-o-API) | Contrato, CRUD e cenários negativos de uma API REST | Python · Playwright · pytest · GitHub Actions |
+| [SauceDemo E2E](https://github.com/Demetrios10/saucedemo-playwright-python) | Login, carrinho e checkout de ponta a ponta | Python · Playwright · POM |
+| [Cadastro Web](https://github.com/Demetrios10/automation-demo-playwright-python) | Formulário completo, validações negativas e defeitos documentados | Python · Playwright · POM |
+| [Cadastro com Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Page Object com esperas explícitas e evidências por cenário | Python · Selenium · unittest |
+| [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | Trilha de 33 aulas com testes automatizados | Python · unittest |
 
-## Projetos públicos
-
-| Projeto | O que você encontra |
-| --- | --- |
-| [Automação de API · Playwright](https://github.com/Demetrios10/Automa-o-API) | 12 execuções de testes REST com Python, Playwright, Pytest, testes parametrizados, contratos e GitHub Actions |
-| [SauceDemo · Playwright](https://github.com/Demetrios10/saucedemo-playwright-python) | Login, carrinho e compras de 1 a 5 produtos; POM, validação de valores e capturas por cenário |
-| [Cadastro completo · Playwright](https://github.com/Demetrios10/automation-demo-playwright-python) | Formulário completo, 22 cenários, POM e evidências dos problemas encontrados no site |
-| [Cadastro · Selenium](https://github.com/Demetrios10/Automacao-Selenium-Python) | Formulário com Page Object, esperas explícitas e registro de resultados por cenário |
-| [Fundamentos de Python](https://github.com/Demetrios10/Fundamentos-Python) | 33 aulas em seis temas, tratamento de entradas e testes com unittest |
-
-Também desenvolvi o **API Monitor** e uma suíte de interface com Playwright, mantidos em repositórios privados. O [portfólio técnico](PORTFOLIO.md) apresenta o resumo e os limites da validação.
+Também mantenho o **API Monitor**, uma aplicação FastAPI com suíte de interface em Playwright, em repositórios privados. Resultados, decisões e limites de cada projeto estão no **[portfólio técnico](PORTFOLIO.md)**.
 
 ## Competências
 
-| Contexto | Conhecimentos e prática |
-| --- | --- |
-| Experiência profissional | Planejamento e execução de testes, APIs, BDD, homologação, análise de riscos e gestão de defeitos |
-| Ferramentas profissionais | Postman, Jira, Confluence, Zephyr, QTest, Oracle e Git |
-| Automação nos projetos | Python, Selenium, Playwright, pytest, unittest, Page Object Model e evidências por cenário |
-| Desenvolvimento pessoal | FastAPI, SQLite, Jinja2, JavaScript e CSS responsivo |
+- **Qualidade:** planejamento e execução de testes, BDD, testes de API, homologação, análise de riscos e gestão de defeitos
+- **Ferramentas:** Postman, Jira, Confluence, Zephyr, qTest, Oracle SQL e Git
+- **Automação:** Python, Playwright, Selenium, pytest, unittest, Page Object Model e CI com GitHub Actions
+- **Desenvolvimento:** FastAPI, SQLite, Jinja2, JavaScript e CSS
 
-## Formação em andamento
+## Formação
 
-- **Pós-graduação em Qualidade de Software — Unyleya** (em andamento).
+MBA em Qualidade de Software, Unyleya (em andamento) · Banco de Dados, UNINOVE
 
-## Próximos passos
-
-- Aprimorar a cobertura e a confiabilidade das suítes de testes de API e integração.
-- Acompanhar as verificações de CI e os problemas externos do cadastro, preservando evidências.
-
-<sub>Revisado em 18/11/2026. Os resultados documentados estão no portfólio.</sub>
+[Experiência profissional, formação e cursos →](docs/EXPERIENCIA.md)
