@@ -16,7 +16,7 @@ Nos projetos pessoais, desenvolvo automação com Python, Playwright, Selenium e
 
 | Projeto | O que você encontra |
 | --- | --- |
-| [QA Portal · FastAPI](https://github.com/Demetrios10/qa-portal-fastapi) | Portal de tarefas com Clean Architecture, API REST e testes em quatro camadas: unitários, integração, API e E2E com Playwright e POM |
+| [QA Portal · FastAPI](https://github.com/Demetrios10/qa-portal-fastapi) | Portal de tarefas com Clean Architecture, API REST e 82 testes aprovados no CI: unitários, integração, API e E2E com Playwright e POM |
 | [Automação de API · Playwright](https://github.com/Demetrios10/Automa-o-API) | 12 execuções de testes REST com Python, Playwright, Pytest, testes parametrizados, contratos e GitHub Actions |
 | [SauceDemo · Playwright](https://github.com/Demetrios10/saucedemo-playwright-python) | Login, carrinho e compras de 1 a 5 produtos; POM, validação de valores e capturas por cenário |
 | [Cadastro completo · Playwright](https://github.com/Demetrios10/automation-demo-playwright-python) | Formulário completo, 22 cenários, POM e evidências dos problemas encontrados no site |
