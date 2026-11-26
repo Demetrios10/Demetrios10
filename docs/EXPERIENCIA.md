@@ -1,48 +1,45 @@
 # Experiência e formação
 
-[Perfil](../README.md) · [Projetos e resultados](../PORTFOLIO.md)
+[Perfil](../README.md) · [Portfólio](../PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/demetriosalvess)
 
 ## Experiência profissional
 
-| Empresa | Cargo | Período |
-| --- | --- | --- |
-| NTT DATA Europe & Latam | QA Analyst — cliente MAPFRE | jul/2026–atual |
-| Fiserv | QA Analyst Pleno | nov/2024–mar/2026 |
-| Fiserv | QA Analyst Jr | abr/2023–out/2024 |
-| Inmetrics | QA Analyst Trainee | nov/2021–jun/2023 |
+### NTT DATA Europe & Latam · QA Analyst
+*jul/2026 – atual · cliente MAPFRE*
 
-### NTT DATA / MAPFRE
+- Squad de Sinistro em projeto de abrangência LATAM
+- Análise de histórias e requisitos, planejamento e execução de testes funcionais, exploratórios, regressivos e E2E
+- Validação de regras de negócio dos processos de sinistro e acompanhamento de defeitos
 
-Atuação na Squad de Sinistro em projeto LATAM: análise de histórias e requisitos, planejamento e execução de testes, validação de regras de negócio e acompanhamento de defeitos.
+### Fiserv · QA Analyst Pleno e QA Analyst Jr
+*Pleno: nov/2024 – mar/2026 · Jr: abr/2023 – out/2024*
 
-### Fiserv
+- Soluções financeiras e de pagamentos
+- Referência de QA na Squad Portal do Cliente
+- Definição de cenários críticos, gestão de massas de teste e validação E2E
 
-Atuação em soluções financeiras e de pagamentos, incluindo referência de QA na Squad Portal do Cliente, definição de cenários críticos, gestão de massas e validação E2E.
+### Inmetrics · QA Analyst Trainee
+*nov/2021 – jun/2023*
 
-### Inmetrics
-
-Testes funcionais e regressivos, validação de APIs e transações, arquivos CNAB/PTLF, análise de logs e organização de evidências.
+- Testes funcionais e regressivos, validação de APIs e transações
+- Análise de arquivos CNAB/PTLF e de logs; organização de evidências
 
 ## Domínios de negócio
 
-- **Pagamentos e adquirência:** Pix, Link de Pagamento, Split de Pagamentos, bandeiras e vouchers.
-- **Serviços financeiros:** antecipação de recebíveis, Clover Capital, chargeback e recebimentos futuros.
-- **Acessos e cadastro:** MFA, gestão de acessos, hierarquia de clientes e CNPJ alfanumérico.
-- **Seguros:** regras de negócio e processos de sinistro em contexto LATAM.
+- **Pagamentos e adquirência:** Pix, Link de Pagamento, Split de Pagamentos, bandeiras e vouchers
+- **Serviços financeiros:** antecipação de recebíveis, Clover Capital, chargeback e recebimentos futuros
+- **Acessos e cadastro:** MFA, gestão de acessos, hierarquia de clientes e CNPJ alfanumérico
+- **Seguros:** regras de negócio e processos de sinistro
 
 ## Formação acadêmica
 
-- **MBA em Qualidade de Software — Unyleya:** em andamento, ago/2026–mar/2027.
-- **Banco de Dados — UNINOVE:** jun/2019–jun/2022.
+- **MBA em Qualidade de Software** · Unyleya · ago/2026 – mar/2027 (em andamento)
+- **Banco de Dados** · UNINOVE · 2019 – 2022
 
-## Cursos e certificações
+## Cursos
 
-- Automação de Testes Web com Selenium Webdriver e Python.
-- IA: explorando o potencial da inteligência artificial generativa.
-- Aspectos Básicos do Ecossistema de Fintechs e Pagamentos Digitais.
-- Pensamento Computacional: Fundamentos da Computação e Lógica de Programação.
-- Teste de usabilidade parte 1: seu produto é fácil de usar?
-
-Informações profissionais preservadas do perfil e do PDF do LinkedIn fornecidos. As competências estão resumidas no perfil; os projetos pessoais estão detalhados no portfólio.
-
-Revisão de organização: 14/11/2026.
+- Automação de Testes Web com Selenium WebDriver e Python
+- IA: explorando o potencial da inteligência artificial generativa
+- Aspectos Básicos do Ecossistema de Fintechs e Pagamentos Digitais
+- Pensamento Computacional: Fundamentos da Computação e Lógica de Programação
+- Teste de Usabilidade: seu produto é fácil de usar?
